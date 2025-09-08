@@ -1,34 +1,31 @@
-# 👋 Olá, eu sou o João Pedro!
+# Olá, me chamo sou o João Pedro
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (FSG)**  
-🔧 Técnico em **Cibersistemas para Automação (SENAI)**  
-
-💻 Apaixonado por tecnologia e desenvolvimento de sistemas.  
-✨ Tenho maior experiência com **Frontend (React, HTML, CSS, JavaScript)**, mas estou aberto a desafios em **qualquer área de desenvolvimento**.  
-☀️ Disponibilidade para atuar no **turno da manhã**.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas (FSG)** e curso **Técnico em Cibersistemas para Automação (SENAI)**.  
+Tenho experiência em **Frontend (React, HTML, CSS, JavaScript)** e estou expandindo meus conhecimentos para **Backend**.  
+Busco um **estágio em desenvolvimento**, com foco em **aplicar meus conhecimentos** e continuar **aprendendo com experiências práticas**.  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Frontend:** React, HTML5, JavaScript, TypeScript  
-- **Banco de Dados & Backend:** Firebase, APIs REST  
-- **Estilização:** TailwindCSS, CSS3
+- **Frontend:** React, HTML5, CSS3, JavaScript, TypeScript  
+- **Backend & Banco de Dados:** Firebase, APIs REST  
+- **Estilização:** TailwindCSS, CSS3  
 - **Controle de versão:** Git & GitHub  
 
 ---
 
-## 📈 Atualmente estou:
+## 📈 Atualmente
 - Aprofundando conhecimentos em **desenvolvimento web e sistemas**  
-- Explorando **backend** para ampliar minhas habilidades  
-- Criando projetos para compor meu portfólio  
+- Explorando **Backend** para ampliar minhas habilidades  
+- Desenvolvendo projetos para **compor meu portfólio** e aplicar práticas reais  
 
 ---
 
-## 🌎 Onde me encontrar
-📫 [Email](joaoppniches@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-niches-576960382/))  
-🐙 [GitHub](https://github.com/jpnichess)  
+## 🌎 Contato
+- ✉️ Email: [joaoppniches@gmail.com](mailto:joaoppniches@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/joão-pedro-pereira-niches-576960382](https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-niches-576960382/)  
+- 🐙 GitHub: [github.com/jpnichess](https://github.com/jpnichess)  
 
 ---
 
-⭐ Busco constantemente aprender, evoluir e colaborar em projetos que façam a diferença!
+Busco oportunidades de **estágio em desenvolvimento** para **colocar em prática meus conhecimentos**, aprender com **profissionais experientes** e contribuir com **projetos de impacto**.
