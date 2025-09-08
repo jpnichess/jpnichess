@@ -10,9 +10,9 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)  
+- **Frontend:** React, HTML5, JavaScript, TypeScript  
 - **Banco de Dados & Backend:** Firebase, APIs REST  
-- **Estilização:** TailwindCSS, Bootstrap  
+- **Estilização:** TailwindCSS, CSS3
 - **Controle de versão:** Git & GitHub  
 
 ---
@@ -25,9 +25,9 @@
 ---
 
 ## 🌎 Onde me encontrar
-📫 [Email](mailto:seuemail@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/seuusuario)  
-🐙 [GitHub](https://github.com/seuusuario)  
+📫 [Email](joaoppniches@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-niches-576960382/))  
+🐙 [GitHub](https://github.com/jpnichess)  
 
 ---
 
