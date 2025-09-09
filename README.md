@@ -1,4 +1,4 @@
-# Olá, me chamo sou o João Pedro
+# Olá, me chamo João Pedro
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (FSG)** e curso **Técnico em Cibersistemas para Automação (SENAI)**.  
 Tenho experiência em **Frontend (React, HTML, CSS, JavaScript)** e estou expandindo meus conhecimentos para **Backend**.  
