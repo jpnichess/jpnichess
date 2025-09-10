@@ -1,13 +1,13 @@
 # Olá, me chamo João Pedro
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (FSG)** e curso **Técnico em Cibersistemas para Automação (SENAI)**.  
-Tenho experiência em **Frontend (React, HTML, CSS, JavaScript)** e estou expandindo meus conhecimentos para **Backend**.  
+Tenho experiência em **Frontend (React, HTML, CSS, Tailwind, JavaScript)** e estou expandindo meus conhecimentos para **Backend**.  
 Busco um **estágio em desenvolvimento**, com foco em **aplicar meus conhecimentos** e continuar **aprendendo com experiências práticas**.  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Frontend:** React, HTML5, CSS3, JavaScript, TypeScript  
+- **Frontend:** React, HTML5, CSS3, JavaScript, Tailwind CSS  
 - **Backend & Banco de Dados:** Firebase, APIs REST  
 - **Estilização:** TailwindCSS, CSS3  
 - **Controle de versão:** Git & GitHub  
