@@ -23,7 +23,7 @@ Busco um **estágio em desenvolvimento**, com foco em **aplicar meus conheciment
 
 ## 🌎 Contato
 - ✉️ Email: [joaoppniches@gmail.com](mailto:joaoppniches@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/joão-pedro-pereira-niches-576960382](https://www.linkedin.com/in/jpniches/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/jpniches/](https://www.linkedin.com/in/jpniches/)  
 - 🐙 GitHub: [github.com/jpnichess](https://github.com/jpnichess)  
 
 ---
