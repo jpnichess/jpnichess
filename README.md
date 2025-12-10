@@ -7,9 +7,9 @@ Busco um **estágio em desenvolvimento**, com foco em **aplicar meus conheciment
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Frontend:** React, HTML5, CSS3, JavaScript, Tailwind CSS, SCSS
-- **Backend & Banco de Dados:** Firebase, APIs REST  
-- **Estilização:** TailwindCSS, CSS3  
+- **Frontend:** React, HTML5, CSS3, JavaScript
+- **Backend & Banco de Dados:** Firebase, Express, APIs RESTful, C#  
+- **Estilização:** TailwindCSS, CSS3, SCSS
 - **Controle de versão:** Git & GitHub  
 
 ---
