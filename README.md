@@ -14,10 +14,6 @@ Busco um **estágio em desenvolvimento**, com foco em **aplicar meus conheciment
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpnichess&layout=compact)
-
----
-
 ## 📈 Atualmente
 - Aprofundando conhecimentos em **desenvolvimento web e sistemas**  
 - Explorando **Backend** para ampliar minhas habilidades  
